@@ -1,0 +1,31 @@
+2019-08-22 10:41:52 INFO  Server:25 - Сервер запущен
+2019-08-22 10:41:56 INFO  ClientHandler:71 - туц authok Socket[addr=/127.0.0.1,port=57118,localport=8189]
+2019-08-22 20:12:57 INFO  Server:25 - Сервер запущен
+2019-08-22 20:13:07 INFO  ClientHandler:60 - nullзапрос на авторизацию по команде /auth
+2019-08-22 20:13:07 INFO  ClientHandler:72 - туц authok Socket[addr=/127.0.0.1,port=62811,localport=8189]
+2019-08-22 20:13:29 ERROR ClientHandler:138 - java.net.SocketException: Connection reset
+2019-08-22 20:13:29 INFO  ClientHandler:158 - туц session over
+2019-08-22 20:13:34 INFO  ClientHandler:60 - nullзапрос на авторизацию по команде /auth
+2019-08-22 20:13:34 INFO  ClientHandler:72 - туц authok Socket[addr=/127.0.0.1,port=62823,localport=8189]
+2019-08-22 20:16:20 INFO  Server:25 - Сервер запущен
+2019-08-22 20:16:25 INFO  ClientHandler:60 - nullзапрос на авторизацию по команде /auth
+2019-08-22 20:16:25 INFO  ClientHandler:72 - туц authok Socket[addr=/127.0.0.1,port=62851,localport=8189]
+2019-08-22 20:20:42 INFO  Server:25 - Сервер запущен
+2019-08-22 20:20:49 INFO  ClientHandler:60 - nullзапрос на авторизацию по команде /auth
+2019-08-22 20:20:49 INFO  ClientHandler:72 - туц authok Socket[addr=/127.0.0.1,port=63013,localport=8189]
+2019-08-22 20:39:00 INFO  Server:25 - Сервер запущен
+2019-08-22 20:39:06 INFO  ClientHandler:61 - nullзапрос на авторизацию по команде /auth
+2019-08-22 20:39:06 INFO  ClientHandler:73 - туц authok Socket[addr=/127.0.0.1,port=63318,localport=8189]
+2019-08-22 20:39:44 INFO  Server:25 - Сервер запущен
+2019-08-22 20:39:49 INFO  ClientHandler:62 - nullзапрос на авторизацию по команде /auth
+2019-08-22 20:39:49 INFO  ClientHandler:74 - туц authok Socket[addr=/127.0.0.1,port=63332,localport=8189]
+2019-08-22 20:47:43 INFO  Server:25 - Сервер запущен
+2019-08-22 20:47:49 INFO  ClientHandler:67 - nullзапрос на авторизацию по команде /auth
+2019-08-22 20:47:49 INFO  ClientHandler:79 - туц authok Socket[addr=/127.0.0.1,port=63521,localport=8189]
+2019-08-22 20:47:53 INFO  ClientHandler:167 - туц session over
+2019-08-22 20:48:41 INFO  ClientHandler:67 - nullзапрос на авторизацию по команде /auth
+2019-08-22 20:48:41 INFO  ClientHandler:79 - туц authok Socket[addr=/127.0.0.1,port=63525,localport=8189]
+2019-08-22 20:48:47 INFO  ClientHandler:167 - туц session over
+2019-08-22 20:49:33 INFO  Server:25 - Сервер запущен
+2019-08-22 20:49:38 INFO  ClientHandler:62 - nullзапрос на авторизацию по команде /auth
+2019-08-22 20:49:38 INFO  ClientHandler:74 - туц authok Socket[addr=/127.0.0.1,port=63541,localport=8189]
